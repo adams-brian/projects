@@ -1,6 +1,6 @@
-# react-redux-app
+# Projects
 
-This is a projects management app built using React and Redux.
+This is a project management app built using React and Redux.
 
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
